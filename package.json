@@ -1,0 +1,27 @@
+{
+  "name": "modal-repro",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@rnx-kit/react-native-host": "^0.4.12",
+    "react": "18.2.0",
+    "react-native": "~0.75.2",
+    "react-native-reanimated": "~3.15.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@babel/preset-env": "^7.20.0",
+    "@babel/runtime": "^7.20.0",
+    "@react-native/babel-preset": "^0.75.2",
+    "@react-native/metro-config": "0.75.2",
+    "@react-native/typescript-config": "0.75.2",
+    "@types/react": "~18.2.79",
+    "typescript": "~5.3.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
